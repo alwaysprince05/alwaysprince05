@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Tripathi</h1>
  <h3 align="center">A passionate developer exploring my domains and open source</h3>
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nexpectarpit&label=Profile%20views&color=0e75b6&style=flat" alt="nexpectarpit" /> </p>
+ 
  
  <p align="left">
    <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -79,10 +79,18 @@
  
  ---
  
- <h3>🐍 Snake Contribution Animation:</h3>
- 
+ <div align="center">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nexpectarpit/nexpectarpit/blob/output/github-snake-dark.svg" />
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/nexpectarpit/nexpectarpit/blob/output/github-snake.svg" />
    <img alt="github-snake" src="https://github.com/nexpectarpit/nexpectarpit/blob/output/github-snake.svg" />
  </picture>
+
+ <div/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nexpectarpit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</div>
+
+ 
+ 
