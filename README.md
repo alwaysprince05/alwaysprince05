@@ -75,13 +75,10 @@
 ---
 
 <h3>📊 Contribution Graph:</h3>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Arpit’s Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nexpectarpit&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nexpectarpit&theme=react-dark" alt="Contribution Graph" />
 
 ---
 
 <h3>🐍 Snake Contribution Animation:</h3>
 
-<img src="https://raw.githubusercontent.com/nexpectarpit/nexpectarpit/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/nexpectarpit/nexpectarpit/output/github-contribution-grid-snake.svg" alt="Snake animation" />
