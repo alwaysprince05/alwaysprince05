@@ -5,6 +5,9 @@
 Let's connect for **Collaboration, Projects, or just to talk Tech!** 😊😊
 ---
 ### 🚀 About Me:
+<div style="display: flex; align-items: center; justify-content: space-between;">
+<div>
+
 - 🔭 **Currently working on:**  
   `Real-time Collaborative Code Editor` using React, Node.js, Socket.IO, and Monaco Editor  
 - 🌱 **Currently learning:**  
@@ -20,7 +23,13 @@ Let's connect for **Collaboration, Projects, or just to talk Tech!** 😊😊
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:**  
   I don't chase tech… tech chases me 😎  
-  Also, I can debug faster than I can cook instant noodles 🍜💻
+  Also, I can debug faster than I can cook instant noodles 🍜💻  
+
+</div>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300" style="border-radius:10px;"/>
+
+</div>
 
 
 ## 🏆 GitHub Trophies
