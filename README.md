@@ -7,15 +7,11 @@ Let's connect for **Collaboration, Projects, or just to talk Tech!** 😊😊
 ### 🚀 About Me:
 <div style="display: flex; align-items: center; justify-content: space-between;">
 <div>
-
-- 🔭 **Currently working on:**  
-  `Real-time Collaborative Code Editor` using React, Node.js, Socket.IO, and Monaco Editor  
+ 
 - 🌱 **Currently learning:**  
   `Kubernetes`, `Java DSA`, `Advanced MERN Stack`, `Android with Kotlin`  
 - 👯 **Looking to collaborate on:**  
   Any **Open Source, Full Stack, or ML/AI Projects**  
-- 🤔 **Looking for help with:**  
-  **Google Summer of Code (GSoC)** preparation & **XWiki** project contributions  
 - 💬 **Ask me about:**  
   Full Stack Web Dev, Open Source, DSA, ML/AI, Android, or Resume Reviews  
 - 📫 **How to reach me:**  
