@@ -12,7 +12,7 @@
  - 🌱 I’m currently learning **MERN** and **Python**
  - 💬 Ask me about **JavaScript**, **Java**, **MySQL**
  - 📫 How to reach me: **arpittripathiayo@gmail.com**
- - ⚡ Fun fact: **I like to make connections**
+ - ⚡ Fun fact: **I like to think and sleep**
  
  ---
  
