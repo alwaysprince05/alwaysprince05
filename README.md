@@ -18,7 +18,8 @@
    <a href="https://www.linkedin.com/in/arpit-tripathi-36a86b325" target="blank">
      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
    </a>
-   <a href="https://www.codechef.com/users/lush_temple_05" target="blank">
+  
+   <a href="https://www.codechef.com/users/ms240410700029" target="blank">
      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
    </a>
    <a href="https://www.hackerrank.com/arpittripathiayo" target="blank">
@@ -36,7 +37,8 @@
  </p>
  
  ---
- 
+ ### 🧰 Tech Stack & Tools
+
  <h3 align="left">Languages and Tools:</h3>
  <p align="left">
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a>
