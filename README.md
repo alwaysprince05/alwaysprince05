@@ -3,11 +3,7 @@
  
  
  
-    
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nexpectArpit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
- 
  
  - 🌱 I’m currently learning **MERN** and **Python**
  - 💬 Ask me about **JavaScript**, **Java**, **MySQL**
@@ -55,26 +51,16 @@
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> </a>
    <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/> </a>
  </p>
+
  
- ---
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nexpectArpit&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nexpectArpit&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nexpectArpit&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nexpectArpit&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nexpectArpit&theme=dark&utcOffset=5.3)
+
  
- <p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nexpectarpit&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
- </p>
  
- <br/><br/><br/><br/>
- 
- <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nexpectarpit&show_icons=true&locale=en" alt="GitHub Stats" />
- </p>
- 
- <p>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nexpectarpit" alt="GitHub Streak" />
- </p>
- 
- ---
- 
- <h3>📊 Contribution Graph:</h3>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexpectarpit&theme=react-dark" alt="Contribution Graph" />
  
  ---
