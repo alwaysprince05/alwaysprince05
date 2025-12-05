@@ -3,11 +3,11 @@
  
  
  
- <p align="left">
-   <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-profile-trophy.vercel.app/?username=nexpectarpit" alt="nexpectarpit" />
-   </a>
- </p>
+    
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nexpectArpit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+ 
  
  - 🌱 I’m currently learning **MERN** and **Python**
  - 💬 Ask me about **JavaScript**, **Java**, **MySQL**
