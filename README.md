@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arpit Tripathi</h1>
  <h3 align="center">A passionate developer exploring my domains and open source</h3>
  
+<div align="center"> 
+<a href="https://gitroll.io/profile/uffRPDiDpF4SjqaA4wxLClDIPWRa2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uffRPDiDpF4SjqaA4wxLClDIPWRa2?theme=tokyoNight" height="350" alt="GitRoll Profile Badge"/></a>
+</div> 
  
- 
-
  
  - 🌱 I’m currently learning **MERN** and **Python**
  - 💬 Ask me about **JavaScript**, **Java**, **MySQL**
