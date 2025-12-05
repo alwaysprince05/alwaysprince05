@@ -34,7 +34,7 @@ Let's connect for **Collaboration, Projects, or just to talk Tech!** 😊😊
  ---
  
  <h3>📊 Contribution Graph:</h3>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexpectarpit&theme=react-dark" alt="Contribution Graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=alwaysprince05&theme=react-dark" alt="Contribution Graph" />
  
  ---
 
