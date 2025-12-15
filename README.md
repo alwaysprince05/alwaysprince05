@@ -11,7 +11,7 @@ Let's connect for **Collaboration, Projects, or just to talk Tech!** 😊😊
 - 🌱 **Currently learning:**  
   `Kubernetes`, `Java DSA`, `Advanced MERN Stack`, `Android with Kotlin`  
 - 👯 **Looking to collaborate on:**  
-  Any **Open Source, Full Stack, or ML/AI Projects**  
+  Any **Open Source, Full Stack, or AI/ML Projects**  
 - 💬 **Ask me about:**  
   Full Stack Web Dev, Open Source, DSA, ML/AI, Android, or Resume Reviews  
 - 📫 **How to reach me:**  
