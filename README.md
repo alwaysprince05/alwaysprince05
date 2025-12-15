@@ -13,7 +13,7 @@ Let's connect for **Collaboration, Projects, or just to talk Tech!** 😊😊
 - 👯 **Looking to collaborate on:**  
   Any **Open Source, Full Stack, or AI/ML Projects**  
 - 💬 **Ask me about:**  
-  Full Stack Web Dev, Open Source, DSA, ML/AI, Android, or Resume Reviews  
+  Full Stack Web Dev, Open Source, DSA, AI/ML, Android, or Resume Reviews  
 - 📫 **How to reach me:**  
   📩 [prince.p24@medhaviskillsuniversity.edu.in](mailto:prince.p24@medhaviskillsuniversity.edu.in)  
 - 😄 **Pronouns:** He/Him  
