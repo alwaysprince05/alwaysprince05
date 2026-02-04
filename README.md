@@ -1,6 +1,6 @@
 # welcome
 > Hi，I'm arpit.  
-> I hope I can bring u joy.
+> I hope i can bring u joy.
 
 
 ![](https://github.com/resetsix/resetsix/blob/main/icons/header.png?raw=true)
