@@ -21,8 +21,8 @@ jobs:
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v3
         with:
-            target_branch: output
-            build_dir: .
-            keep_history: false
+          target_branch: output
+          build_dir: dist
+          keep_history: false
         env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
