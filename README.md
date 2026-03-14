@@ -54,14 +54,11 @@ I am a developer focused on AI and ML with strong interest in building web proje
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexpectarpit&theme=react-dark" alt="Contribution Graph" />
  
 
- 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexpectArpit/nexpectArpit/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexpectArpit/nexpectArpit/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nexpectArpit/nexpectArpit/output/pacman-contribution-graph.svg">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexpectArpit/nexpectArpit/output/dist/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexpectArpit/nexpectArpit/output/dist/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nexpectArpit/nexpectArpit/output/dist/pacman-contribution-graph.svg">
 </picture>
- 
 
 <h6 align="center">Thanks for Visiting</h6>
 
