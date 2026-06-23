@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am a passionate **Full-Stack Developer** and **AI & ML Enthusiast** dedicated to building scalable, high-impact applications. My current learning focus spans deeply into mastering **Kubernetes**, **Advanced Java DSA**, the **MERN Stack**, and **Android Development with Kotlin**. I thrive on tackling complex architectural challenges and continuously pushing my technical boundaries.
+I am a **Computer Science (AI & ML)** student passionate about **Software Development**, **Artificial Intelligence**, and **Cloud Computing**. Skilled in **Java**, **Spring Boot**, **React.js**, **SQL**, **AWS**, **Machine Learning**, and **Generative AI**. I enjoy building real-world projects, solving problems, and continuously learning new technologies to grow as a software engineer.
 
 > **Fun Fact:** I love turning ideas into projects, and I'm always learning something new—whether it's coding, AI, or the latest tech trends. 🚀💡
 
