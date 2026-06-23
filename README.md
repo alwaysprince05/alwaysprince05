@@ -55,10 +55,11 @@ I am a passionate **Full-Stack Developer** and **AI & ML Enthusiast** dedicated 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alwaysprince05&theme=react-dark" alt="Contribution Graph" />
 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexpectArpit/nexpectArpit/output/dist/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexpectArpit/nexpectArpit/output/dist/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nexpectArpit/nexpectArpit/output/dist/pacman-contribution-graph.svg">
-</picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwaysprince05/alwaysprince05/output/dist/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alwaysprince05/alwaysprince05/output/dist/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/alwaysprince05/alwaysprince05/output/dist/galaga-contribution-graph.svg">
+ </picture>
+
 
 <h6 align="center">Thanks for Visiting</h6>
 
