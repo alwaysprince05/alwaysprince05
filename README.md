@@ -16,7 +16,7 @@
 
 I am a passionate **Full-Stack Developer** and **AI & ML Enthusiast** dedicated to building scalable, high-impact applications. My current learning focus spans deeply into mastering **Kubernetes**, **Advanced Java DSA**, the **MERN Stack**, and **Android Development with Kotlin**. I thrive on tackling complex architectural challenges and continuously pushing my technical boundaries.
 
-> **Fun Fact:** I don't chase tech… tech chases me 😎. Also, I can debug faster than I can cook instant noodles! 🍜💻
+> **Fun Fact:** I love turning ideas into projects, and I'm always learning something new—whether it's coding, AI, or the latest tech trends. 🚀💡
 
 
 
